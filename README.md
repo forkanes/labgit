@@ -1,2 +1,2 @@
 # labgit
-laboratorio de git
+Este es un laboratorio de github
